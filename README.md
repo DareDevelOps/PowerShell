@@ -1,10 +1,10 @@
 # PowerShell
 PowerShell Utility Repo
 
-## Random PowerShell SCripts
+## Random PowerShell Scripts
 
 ### Tree
 
-- Az Azure related POwerShell
+- Az Azure related PowerShell
 - pwsh generic Powershell scripts
-- terraform !HCL but PowerShell scripts replated to Terraform
+- Terraform !HCL but PowerShell scripts related to Terraform
