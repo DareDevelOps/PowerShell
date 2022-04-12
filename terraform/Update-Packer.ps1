@@ -1,5 +1,5 @@
 <#
-.Synopsis short script to update the terraform application
+.Synopsis short script to update the packer application
 .Descriptiom
 #>
 
